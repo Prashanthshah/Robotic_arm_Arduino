@@ -34,14 +34,7 @@ void setup() {
   myservo3.attach(D7);
   myservo4.attach(D8);
 
-//  int value1;
-//  
-//  int value2;
-//  
-//  int value3;
-//  
-//  int value4;
-  
+
 
   WiFi.begin(ssid, password);
   Serial.println("Connecting");
